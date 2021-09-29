@@ -1,0 +1,55 @@
+Fecha de prueba: Sun Sep 29 18:13:10 COT 2019
+Hora de prueba: 18:13
+Se transfiere el archivo: ./data2/fileof55127.mp4 con tamaño: 6795452
+Cliente: socket 55127
+Tiempo de transferencia: 333 ms
+Entregado: false
+Paquetes enviados: 104
+Paquetes recibidos: 104
+Bytes recibidos: 6795452
+Bytes transmitidos: 6795452
+
+Fecha de prueba: Fri Oct 18 16:53:39 COT 2019
+Hora de prueba: 16:53
+Se transfiere el archivo: ./data2/fileof56910.mp4 con tamaño: 6795452
+Cliente: socket 56910
+Tiempo de transferencia: 6180 ms
+Entregado: true
+Paquetes enviados: 104
+Paquetes recibidos: 104
+Bytes recibidos: 6795452
+Bytes transmitidos: 6795452
+
+Fecha de prueba: Fri Oct 18 16:56:10 COT 2019
+Hora de prueba: 16:56
+Se transfiere el archivo: ./data2/fileof56928.mp4 con tamaño: 6795452
+Cliente: socket 56928
+Tiempo de transferencia: 9857 ms
+Entregado: true
+Paquetes enviados: 104
+Paquetes recibidos: 104
+Bytes recibidos: 6795452
+Bytes transmitidos: 6795452
+
+Fecha de prueba: Fri Oct 18 16:56:14 COT 2019
+Hora de prueba: 16:56
+Se transfiere el archivo: ./data2/fileof56930.mp4 con tamaño: 6795452
+Cliente: socket 56930
+Tiempo de transferencia: 14558 ms
+Entregado: true
+Paquetes enviados: 104
+Paquetes recibidos: 104
+Bytes recibidos: 6795452
+Bytes transmitidos: 6795452
+
+Fecha de prueba: Fri Oct 18 16:56:15 COT 2019
+Hora de prueba: 16:56
+Se transfiere el archivo: ./data2/fileof56927.mp4 con tamaño: 6795452
+Cliente: socket 56927
+Tiempo de transferencia: 14912 ms
+Entregado: true
+Paquetes enviados: 104
+Paquetes recibidos: 104
+Bytes recibidos: 6795452
+Bytes transmitidos: 6795452
+
